@@ -7,4 +7,4 @@ Species: Human, Macaque, Chimpanzee, Platypus, Dog, Cat, and Mouse
 
 Methods Used: Othologue Retrevial, Domain Verification, Multiple Sequence Alignment, and Conservation analysis
 
-Current Findings: NOVA1 is highly conserved across mammalian species, which implies the existance of a high purificational selectionary pressure. 
+Current Findings: NOVA1 highly conserved across sampled mammals, KH domains present in all species examined, Initial canine truncation (480aa/508aa) likely attributable to isoform/annotation differences

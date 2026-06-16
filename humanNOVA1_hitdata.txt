@@ -1,0 +1,11 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-3C01066A478564CB-826B3405536D0BB
+#datatype	hitsConcise Results
+#status	0
+#Start time	2026-06-14T23:25:20	Run time	0:00:00:02
+#status	success
+
+Query	Hit type	PSSM-ID	From	To	E-Value	Bitscore	Accession	Short name	Incomplete	Superfamily
+Q#1 - >ENSP00000438875.2 pep[ENSP00000438875.2 pep]	specific	411863	49	121	3.08148e-39	136.899	cd22435	KH-I_NOVA_rpt1	 - 	cl00098
+Q#1 - >ENSP00000438875.2 pep[ENSP00000438875.2 pep]	specific	411807	422	492	1.62533e-38	135.012	cd09031	KH-I_NOVA_rpt3	 - 	cl00098
+Q#1 - >ENSP00000438875.2 pep[ENSP00000438875.2 pep]	specific	411864	172	241	3.97041e-35	125.81	cd22436	KH-I_NOVA_rpt2	 - 	cl00098

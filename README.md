@@ -1,8 +1,10 @@
 # NOVA1-evolution
 Research on NOVA1 evolution in mammalian species. 
 
-Sequences were downloaded from ensembl, with the exception of the Dog_isoform_long_XP, which was downloaded off of the National Library of Medicine.
+Research Question: How conserved is NOVA1 across mammalian species, what does this imply about the evolution of neural RNA-splicing regulation?
 
-Clustal Omega was used initially for MSA. With KH domain checks performed by the NCBI's Batch CD-Search tool.
+Species: Human, Macaque, Chimpanzee, Platypus, Dog, Cat, and Mouse 
 
-Had annotation/isoform problems intitally -> was quickly resolved after discrepencies were found, read more in notes.
+Methods Used: Othologue Retrevial, Domain Verification, Multiple Sequence Alignment, and Conservation analysis
+
+Current Findings: NOVA1 is highly conserved across mammalian species, which implies the existance of a high purificational selectionary pressure. 
